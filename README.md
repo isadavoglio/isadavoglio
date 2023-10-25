@@ -1,4 +1,5 @@
-## Hey, eu sou a Isabela, estudante de Análise e Desenvolvimento de Sistemas. 👋
+## Hey, eu sou a Isabela! 👋
+
 📚 Formada em Letras e ex-professora de inglês, minha paixão pela linguagem me levou a explorar novos horizontes no mundo da tecnologia.
 
 💻 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas, buscando unir minha paixão pela linguagem à minha vontade de criar soluções inovadoras por meio da programação.
@@ -21,8 +22,9 @@
   
   ##
 
+📫 Entre em contato comigo:
   <div> 
-  <a href="www.linkedin.com/in/isabela-davoglio" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/isabela-davoglio" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
 <!--
