@@ -8,9 +8,12 @@
 
 🌱 Estou interessada em:
 
-- 📊 Desenvolvimento de software
-- 🌐 Desenvolvimento web
-
+- 🌐 Desenvolvimento web;
+- 🎨 Desenhar;
+- 🎬 Livros & Séries;
+- ✈️ Viagens;
+- 🧙‍♂️ Cosplay.
+  
 
 
  👾 Linguagens:
